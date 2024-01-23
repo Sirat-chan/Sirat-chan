@@ -1,4 +1,4 @@
-### Hi there! 👋
+### Hi there! 👋🤓
 
 I'm [Sirat Ben Jemaa, a backend developer and engineering student at ESPRIT.
 
