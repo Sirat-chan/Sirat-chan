@@ -8,7 +8,7 @@ I'm [Sirat Ben Jemaa, a backend developer and engineering student at ESPRIT.
 - 💬 Ask me about anything related to backend development or my learning journey.
 - 📫 How to reach me: [siratbenjemaa02@gmail.com]
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to resolve problems 🫣
+- ⚡ Fun fact: I love resolving problems 🫣
 
 <!--
 **Sirat-chan/Sirat-chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
