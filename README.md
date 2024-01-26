@@ -2,7 +2,7 @@
 
 I'm Sirat Ben Jemaa, a backend developer and engineering student at ESPRIT.
 
-- 🔭 I’m currently working as a backend developer on value digital services.
+- 🔭 I’m currently working as a backend developer in value digital services.
 -  ![springboot (2)](https://github.com/Sirat-chan/Sirat-chan/assets/110188350/bf01ba00-09d3-445e-b311-eef71aa189b9)![value](https://github.com/Sirat-chan/Sirat-chan/assets/110188350/2f0a9324-a4d2-4a09-86f7-62c59dd39dcb) ![micro](https://github.com/Sirat-chan/Sirat-chan/assets/110188350/40639c34-74d9-457b-a06c-e86d6681c445)
 
 - 🌱 I’m currently learning Spring Boot, microservices, Keycloak...
